@@ -1,8 +1,9 @@
 # FinanceDataReader
 금융 데이터 분석 및 시각화
+# 볼린저 밴드 분석
 ![볼린저밴드](https://user-images.githubusercontent.com/84282676/184469541-4fffa498-ccf1-4a04-b7f0-6c139c9d2946.PNG)
+# 수익률 시각화
 ![수익률그래프](https://user-images.githubusercontent.com/84282676/184469542-03802c05-a6f6-4523-8a5d-db9eebea04a1.PNG)
-
 # MACD 기법
 ![MACD](https://user-images.githubusercontent.com/84282676/184469535-0e008fd1-8c7c-49b5-ada9-2d927e886ba0.PNG)
 # RSI 지표 
